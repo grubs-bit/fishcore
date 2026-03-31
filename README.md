@@ -1,4 +1,4 @@
-# Crevasse 🎣
+# FishCore🎣
 
 A clean, data-driven fishing app built with Expo and React Native.
 
