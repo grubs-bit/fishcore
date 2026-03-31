@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "fishcore2",
-    "slug": "fishcore2",
-    "version": "1.0.0",
+    "name": "fishcore",
+    "slug": "fishcore",
+    "version": "0.9.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fishcore2",
+    "scheme": "fishcore",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
