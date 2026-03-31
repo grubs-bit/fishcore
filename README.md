@@ -71,7 +71,7 @@ npx expo start
 
 Download the latest APK from the Releases section:
 
-https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+https://github.com/grubs-bit/fishcore/releases
 
 ---
 
